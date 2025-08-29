@@ -1,0 +1,3 @@
+Hello Artifactory and Sonar from siddiq new update.
+new line is added now.
+added new line now.
